@@ -1,7 +1,6 @@
 👋 Hola, soy Nicolás Riquelme Lozano
 
-💻 Estudiante de Administración de Sistemas Informáticos en Red (ASIR)
-📍 Madrid, España
+💻 Estudiante de Master Ingenieria MultiCloud
 
 Me interesa el mundo de la administración de sistemas, redes, ciberseguridad e infraestructura IT. Actualmente estoy desarrollando mis conocimientos en entornos Windows y Linux, redes, servidores, virtualización y tecnologías cloud.
 
@@ -112,7 +111,3 @@ Administración de Sistemas · Redes · Ciberseguridad · Cloud · Infraestructu
 📫 Contacto
 
 💼 LinkedIn: Nicolás Riquelme Lozano
-
-🐙 GitHub: Añade aquí tu usuario de GitHub
-
-⭐ Siempre aprendiendo, experimentando y construyendo.
