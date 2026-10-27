@@ -1,113 +1,89 @@
-👋 Hola, soy Nicolás Riquelme Lozano
+<div align="center">
 
-💻 Estudiante de Master Ingenieria MultiCloud
+<img width="100%" alt="Cabecera del perfil" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,55:125C91,100:1F9DD7&amp;height=145&amp;section=header" />
 
-Me interesa el mundo de la administración de sistemas, redes, ciberseguridad e infraestructura IT. Actualmente estoy desarrollando mis conocimientos en entornos Windows y Linux, redes, servidores, virtualización y tecnologías cloud.
+# ¡Hola! Soy Nicolás Riquelme Lozano 👋
 
-🚀 Sobre mí
+**Administración de sistemas · Cloud & MultiCloud · Redes · Ciberseguridad**
 
-Soy una persona interesada en la tecnología y especialmente en la administración y seguridad de sistemas informáticos.
+Me gusta entender cómo funcionan las infraestructuras, automatizar tareas y convertir lo aprendido en proyectos prácticos.
 
-Me gusta aprender continuamente, experimentar con nuevas tecnologías y poner en práctica mis conocimientos mediante proyectos y entornos de laboratorio.
+[![GitHub](https://img.shields.io/badge/GitHub-nrcb28-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nrcb28)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/nicol%C3%A1s-riquelme-lozano9b981b251nrl284)
+![Ubicación](https://img.shields.io/badge/Madrid-Espa%C3%B1a-1F6FEB?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-Actualmente estoy enfocado en seguir creciendo profesionalmente dentro del área de sistemas, redes y ciberseguridad.
+</div>
 
-💻 Áreas de conocimiento
+---
 
-🐧 Administración de sistemas Linux
+## 👨‍💻 Sobre mí
 
-🪟 Administración de sistemas Windows
+Mi enfoque está en la **administración y seguridad de sistemas**, tanto Windows como Linux, y en la evolución de las infraestructuras hacia entornos **cloud y multicloud**.
 
-🌐 Redes y protocolos de comunicación
+Me interesa especialmente combinar **redes, servidores, automatización y desarrollo de herramientas propias**. Utilizo laboratorios y proyectos para probar soluciones, documentar lo que aprendo y mejorar mis conocimientos de forma continua.
 
-🔐 Seguridad informática
+- ☁️ Ampliando mi formación en **Ingeniería MultiCloud**.
+- 🛠️ Trabajando con **Windows Server, Linux, Active Directory, redes y virtualización**.
+- 🔐 Profundizando en **seguridad de sistemas, diagnóstico y buenas prácticas de administración**.
+- 📦 Explorando **Docker, Kubernetes y despliegues cloud**.
 
-🖥️ Administración de servidores
+## 🚀 Proyectos destacados
 
-☁️ Virtualización y entornos cloud
+| Proyecto | Qué encontrarás | Tecnologías |
+| :--- | :--- | :--- |
+| **[Opscope](https://github.com/nrcb28/opscope)** | Herramienta de diagnóstico para Linux, Windows y macOS: inventario, comprobaciones de salud y seguridad, análisis de evidencias e interfaz web local. | C# · .NET · Sistemas |
+| **[AtlasDB](https://github.com/nrcb28/atlasdb)** | Motor de base de datos relacional educativo con SQL, índices AVL, transacciones, persistencia WAL, consola y servidor TCP. | C17 · C# · SQL |
+| **[Azure Student Notes](https://github.com/nrcb28/azure-student-notes)** | Apuntes técnicos, laboratorios y guías de estudio de Microsoft Azure en varios idiomas. | Azure · Cloud · Documentación |
 
-🛠️ Soporte técnico y resolución de incidencias
+> **Mi forma de aprender:** estudiar la teoría, montarlo en un entorno real, comprobar qué falla y documentar una solución reproducible.
 
-🐚 Bash y scripting
+## 🧰 Tecnologías y áreas de trabajo
 
-📦 Kubernetes
+<div align="center">
+  <img alt="Iconos de tecnologías: Linux, Windows, Azure, Docker, Kubernetes, Git, GitHub, Bash, PowerShell, C, C sharp y .NET" src="https://skillicons.dev/icons?i=linux,windows,azure,docker,kubernetes,git,github,bash,powershell,c,cs,dotnet&amp;perline=12" />
+</div>
 
-🗄️ Bases de datos y SQL
+<br/>
 
-🏢 Experiencia
-Sirfenix - Soluciones Informáticas Reales
+| Área | Herramientas y conocimientos |
+| :--- | :--- |
+| **Sistemas** | Linux · Windows Server · Active Directory · LDAP |
+| **Redes** | TCP/IP · Servicios de red · Diagnóstico · Seguridad de redes |
+| **Cloud y contenedores** | Microsoft Azure · Docker · Kubernetes · Virtualización |
+| **Automatización** | Bash · PowerShell · Scripting |
+| **Desarrollo y datos** | C · C# · .NET · SQL · Bases de datos |
+| **Seguridad** | Administración segura · Control de accesos · Análisis de evidencias |
 
-📍 Madrid, España
+## 🏅 Certificaciones y formación
 
-Experiencia y desarrollo de conocimientos relacionados con el ámbito de sistemas informáticos e infraestructura IT.
+- **Microsoft Certified: Azure Administrator Associate (AZ-104)**.
+- **Linux II — Cisco** · expedición: junio de 2025.
+- **Kubernetes** · formación en orquestación de contenedores y entornos asociados.
+- **Máster en Ingeniería MultiCloud** · en curso.
+- **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)** · IES Laguna de Joatzel · 2024–2026.
 
-🎓 Formación
-IES Laguna de Joatzel
+## 🏢 Experiencia
 
-Administración de Sistemas Informáticos en Red (ASIR)
+**Sirfenix — Soluciones Informáticas Reales** · Madrid, España
 
-📅 2024 - 2026
+Experiencia vinculada al área de sistemas informáticos e infraestructura IT, complementada con prácticas y laboratorios de administración, redes y servicios.
 
-Formación orientada a:
+## 📚 En qué estoy profundizando
 
-Administración de sistemas operativos
+**Arquitecturas cloud y multicloud** · **seguridad de infraestructuras** · **administración avanzada de Linux y Windows Server** · **contenedores y Kubernetes** · **automatización con scripts**.
 
-Redes informáticas
+## 🎯 Hacia dónde quiero crecer
 
-Servicios de red
+Mi objetivo es seguir desarrollándome profesionalmente en **sistemas, redes, cloud y ciberseguridad**, aportando una base técnica sólida y una mentalidad de mejora continua.
 
-Seguridad informática
+---
 
-Administración de servidores
+<div align="center">
 
-Virtualización
+**¿Quieres ver en qué estoy trabajando?**
 
-Bases de datos
+[Explorar mis repositorios](https://github.com/nrcb28?tab=repositories) · [Conectar en LinkedIn](https://es.linkedin.com/in/nicol%C3%A1s-riquelme-lozano9b981b251nrl284)
 
-Scripting y automatización
+<sub>Aprender · Construir · Probar · Documentar · Mejorar</sub>
 
-🏅 Certificaciones
-
-Linux II — Cisco
-📅 Expedición: junio de 2025
-
-Kubernetes
-
-Formación relacionada con seguridad informática y sistemas seguros de acceso
-
-🧰 Tecnologías
-Linux              █████████░
-Windows Server     ████████░░
-Networking         ████████░░
-Cybersecurity      ███████░░░
-Bash               ███████░░░
-Kubernetes         ██████░░░░
-SQL                ██████░░░░
-Virtualización     ███████░░░
-Cloud              ██████░░░░
-
-📚 Actualmente aprendiendo
-
-🔐 Ciberseguridad
-
-🐧 Administración avanzada de Linux
-
-🪟 Windows Server y Active Directory
-
-☁️ Cloud Computing
-
-📦 Kubernetes y contenedores
-
-🌐 Redes y seguridad de redes
-
-🐚 Automatización mediante Bash
-
-🎯 Objetivo profesional
-
-Seguir desarrollándome en el sector IT y adquirir experiencia profesional en áreas como:
-
-Administración de Sistemas · Redes · Ciberseguridad · Cloud · Infraestructura IT
-
-📫 Contacto
-
-💼 LinkedIn: Nicolás Riquelme Lozano
+</div>
