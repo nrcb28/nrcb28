@@ -2,7 +2,7 @@
 
 <img width="100%" alt="Cabecera del perfil" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,55:125C91,100:1F9DD7&amp;height=145&amp;section=header" />
 
-# ¡Hola! Soy Nicolás Riquelme Lozano 👋
+# ¡Hola! Soy Nicolás Riquelme Lozano 
 
 **Administración de sistemas · Cloud & MultiCloud · Redes · Ciberseguridad**
 
@@ -16,18 +16,18 @@ Me gusta entender cómo funcionan las infraestructuras, automatizar tareas y con
 
 ---
 
-## 👨‍💻 Sobre mí
+##  Sobre mí
 
 Mi enfoque está en la **administración y seguridad de sistemas**, tanto Windows como Linux, y en la evolución de las infraestructuras hacia entornos **cloud y multicloud**.
 
 Me interesa especialmente combinar **redes, servidores, automatización y desarrollo de herramientas propias**. Utilizo laboratorios y proyectos para probar soluciones, documentar lo que aprendo y mejorar mis conocimientos de forma continua.
 
-- ☁️ Ampliando mi formación en **Ingeniería MultiCloud**.
-- 🛠️ Trabajando con **Windows Server, Linux, Active Directory, redes y virtualización**.
-- 🔐 Profundizando en **seguridad de sistemas, diagnóstico y buenas prácticas de administración**.
-- 📦 Explorando **Docker, Kubernetes y despliegues cloud**.
+-  Ampliando mi formación en **Ingeniería MultiCloud**.
+-  Trabajando con **Windows Server, Linux, Active Directory, redes y virtualización**.
+-  Profundizando en **seguridad de sistemas, diagnóstico y buenas prácticas de administración**.
+-  Explorando **Docker, Kubernetes y despliegues cloud**.
 
-## 🚀 Proyectos destacados
+##  Proyectos destacados
 
 | Proyecto | Qué encontrarás | Tecnologías |
 | :--- | :--- | :--- |
@@ -37,7 +37,7 @@ Me interesa especialmente combinar **redes, servidores, automatización y desarr
 
 > **Mi forma de aprender:** estudiar la teoría, montarlo en un entorno real, comprobar qué falla y documentar una solución reproducible.
 
-## 🧰 Tecnologías y áreas de trabajo
+##  Tecnologías y áreas de trabajo
 
 <div align="center">
   <img alt="Iconos de tecnologías: Linux, Windows, Azure, Docker, Kubernetes, Git, GitHub, Bash, PowerShell, C, C sharp y .NET" src="https://skillicons.dev/icons?i=linux,windows,azure,docker,kubernetes,git,github,bash,powershell,c,cs,dotnet&amp;perline=12" />
@@ -54,7 +54,7 @@ Me interesa especialmente combinar **redes, servidores, automatización y desarr
 | **Desarrollo y datos** | C · C# · .NET · SQL · Bases de datos |
 | **Seguridad** | Administración segura · Control de accesos · Análisis de evidencias |
 
-## 🏅 Certificaciones y formación
+##  Certificaciones y formación
 
 - **Microsoft Certified: Azure Administrator Associate (AZ-104)**.
 - **Linux II — Cisco** · expedición: junio de 2025.
@@ -62,17 +62,17 @@ Me interesa especialmente combinar **redes, servidores, automatización y desarr
 - **Máster en Ingeniería MultiCloud** · en curso.
 - **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)** · IES Laguna de Joatzel · 2024–2026.
 
-## 🏢 Experiencia
+##  Experiencia
 
 **Sirfenix — Soluciones Informáticas Reales** · Madrid, España
 
 Experiencia vinculada al área de sistemas informáticos e infraestructura IT, complementada con prácticas y laboratorios de administración, redes y servicios.
 
-## 📚 En qué estoy profundizando
+##  En qué estoy profundizando
 
 **Arquitecturas cloud y multicloud** · **seguridad de infraestructuras** · **administración avanzada de Linux y Windows Server** · **contenedores y Kubernetes** · **automatización con scripts**.
 
-## 🎯 Hacia dónde quiero crecer
+##  Hacia dónde quiero crecer
 
 Mi objetivo es seguir desarrollándome profesionalmente en **sistemas, redes, cloud y ciberseguridad**, aportando una base técnica sólida y una mentalidad de mejora continua.
 
